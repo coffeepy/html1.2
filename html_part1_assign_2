@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Assignment 2</title>
+  </head>
+  <body>
+    <h1>This is a header inside the Body</h1>
+    Text inside a body but not in an element within the body tag
+  </body>
+</html>
